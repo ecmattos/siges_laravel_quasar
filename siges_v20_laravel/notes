@@ -1,0 +1,18 @@
+1) Usuarios
+1.1) Cadastro
+    a. SignUp
+        a1. Validacao (boilerplate): OK
+        a2. Envio e-mail: OK
+            I. Formatacao (??)
+
+    b. Login
+        b1. Validacao (boilerplate): OK
+
+    c. Me
+        c1. Consulta dados usuario logado: OK
+
+    d. Refresh: OK
+
+    e. Recovery: (??)
+
+    f. Reset: (??)
